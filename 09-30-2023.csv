@@ -1,0 +1,17 @@
+,date_of_scrape,PROGRAM,TYPE,RATE,APR
+0,09-30-2023,30-Year Fixed Rate,conforming,7.28 %,7.36 %
+1,09-30-2023,20-Year Fixed Rate,conforming,7.01 %,7.11 %
+2,09-30-2023,15-Year Fixed Rate,conforming,6.53 %,6.67 %
+3,09-30-2023,10-Year Fixed Rate,conforming,6.53 %,6.73 %
+4,09-30-2023,7-year ARM,conforming,7.52 %,7.99 %
+5,09-30-2023,5-year ARM,conforming,7.13 %,7.92 %
+6,09-30-2023,3-year ARM,conforming,--,--
+7,09-30-2023,30-Year Fixed Rate FHA,government,6.60 %,7.72 %
+8,09-30-2023,30-Year Fixed Rate VA,government,6.58 %,6.88 %
+9,09-30-2023,15-Year Fixed Rate FHA,government,6.24 %,7.39 %
+10,09-30-2023,15-Year Fixed Rate VA,government,6.27 %,6.81 %
+11,09-30-2023,30-Year Fixed Rate Jumbo,jumbo,7.48 %,7.55 %
+12,09-30-2023,15-Year Fixed Rate Jumbo,jumbo,7.19 %,7.32 %
+13,09-30-2023,7-year ARM Jumbo,jumbo,7.54 %,7.95 %
+14,09-30-2023,5-year ARM Jumbo,jumbo,7.26 %,7.92 %
+15,09-30-2023,3-year ARM Jumbo,jumbo,5.72 %,7.40 %
