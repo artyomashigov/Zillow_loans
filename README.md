@@ -1,4 +1,13 @@
-# Scraping_loan_rates
-In the ipynb file you can find the scraped loans, their types, programs, rates and APRs. <br> <br>
-The data was scraped from zillow.com via Pandas library <br> <br>
-The resulting data is in CSV format.
+# Zillow Loans
+
+Notebook project for scraping Zillow loan-rate data and exporting the results to CSV.
+
+## Contents
+
+- Loan types
+- Loan programs
+- Rates and APRs
+
+## Running
+
+Open the notebook, run the scraping cells, and review the generated CSV output.
